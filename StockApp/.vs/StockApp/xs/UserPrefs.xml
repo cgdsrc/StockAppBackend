@@ -1,0 +1,42 @@
+﻿<Properties StartupConfiguration="{A6FECC67-8087-4BCA-AD4E-14DF3CA993E1}|Default">
+  <MonoDevelop.Ide.ItemProperties.StockApp PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="StockApp/Properties/launchSettings.json">
+    <Files>
+      <File FileName="StockApp/Controllers/APIController.cs" Line="26" Column="21" />
+      <File FileName="StockApp/Model/User.cs" Line="9" Column="41" />
+      <File FileName="StockApp/Model/UserResponse.cs" Line="11" Column="2" />
+      <File FileName="StockApp/Program.cs" Line="16" Column="1" />
+      <File FileName="StockApp/Startup.cs" Line="13" Column="36" />
+      <File FileName="StockApp/Model/Stock.cs" Line="10" Column="40" />
+      <File FileName="StockApp/Model/ExecuteOrderRequest.cs" Line="6" Column="1" />
+      <File FileName="StockApp/Interfaces/ICacheService.cs" Line="8" Column="39" />
+      <File FileName="StockApp/Services/CacheService.cs" Line="30" Column="36" />
+      <File FileName="StockApp/appsettings.json" Line="1" Column="1" />
+      <File FileName="StockApp/appsettings.Development.json" Line="1" Column="1" />
+      <File FileName="StockApp/Properties/launchSettings.json" Line="23" Column="36" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="StockApp" expanded="True">
+            <Node name="StockApp" expanded="True">
+              <Node name="Controllers" expanded="True">
+                <Node name="APIController.cs" selected="True" />
+              </Node>
+              <Node name="Interfaces" expanded="True" />
+              <Node name="Model" expanded="True" />
+              <Node name="Services" expanded="True" />
+              <Node name="appsettings.json" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
